@@ -24,7 +24,6 @@ deploy:
   provider: heroku
   api_key:
     secure: $HEROKU_API_KEY
-  app: test-my-travisci-project
+  app: hahaha00
   on:
-    repo: jimting/GitProjectTutorialExample
-    
+    repo: linda880605/lab4
